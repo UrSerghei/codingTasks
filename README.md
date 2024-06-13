@@ -8,6 +8,7 @@ Welcome to the codingTasks repository! This repository contains completed machin
 2. [Tasks Overview](#tasks-overview)
 3. [Setup Instructions](#setup-instructions)
 4. [Contributing](#contributing)
+5. [Contact](#contact)
 
 ## Introduction
 
@@ -48,5 +49,15 @@ To run these notebooks and scripts locally, follow these steps:
 ## Contributing
 
 If you'd like to contribute to this repository by adding more tasks, improving existing ones, or fixing any issues, feel free to open a pull request. We welcome contributions from everyone!
+
+## Contact
+
+For any questions or feedback, please reach out:
+
+ - Serghei Ursachii
+ - Email: serghei.ursachii01@gmail.com
+ - GitHub: https://github.com/UrSerghei
+
+Thank you for visiting the codingTasks Repository! Happy coding!
 
 
