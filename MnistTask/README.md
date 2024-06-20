@@ -8,7 +8,6 @@ This repository contains code and resources for working with the MNIST dataset. 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -40,7 +39,7 @@ The model achieves an accuracy of 98% on the test set. You can find more details
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Fork the repository.
-Create a new branch.
-Make your changes and commit them.
-Open a Pull Request.
+- Fork the repository.
+- Create a new branch.
+- Make your changes and commit them.
+- Open a Pull Request.
