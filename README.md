@@ -22,19 +22,19 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Description: Creating a decision tree that can predict the survival of passengers on the Titanic.
    - Dataset: [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
    - Notebook: `decision_tree_titanic.ipynb`
-<!---
-2. **Task 2: Classification**
-   - Description: Classifying iris flower species using logistic regression.
-   - Dataset: [Iris Dataset](link_to_dataset)
-   - Notebook: `task2_classification.ipynb`
 
-3. **Task 3: Clustering**
+2. **Task 2: Blog**
+   - Description: The Blog Project is a simple web application built using Python and Flask.
+
+3. **Task 3: Image Processing**
+   - Description: This project aims to develop a model to recognize and classify handwritten digits using the MNIST dataset. 
+   - Dataset: [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+   - Notebook: `mnist_task.ipynb`
+
+4. **Task 4: Clustering**
    - Description: Customer segmentation using K-means clustering.
-   - Dataset: [Mall Customers Dataset](link_to_dataset)
-   - Notebook: `task3_clustering.ipynb`
-
-... (Add more tasks as necessary)
- just --->
+   - Dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
+   - Notebook: `Kmeans_task.ipynb`
  
 ## Setup Instructions
 
