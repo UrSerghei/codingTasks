@@ -8,7 +8,6 @@ This repository contains code and resources for working with the MNIST dataset. 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -19,9 +18,8 @@ This project aims to develop a model to recognize and classify handwritten digit
 To get started, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/mnist-task.git
+git clone https://github.com/UrSerghei/mnist-task.git
 cd mnist-task
-pip install -r requirements.txt
 ```
 
 ## Usage
