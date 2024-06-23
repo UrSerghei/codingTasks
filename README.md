@@ -35,7 +35,10 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Description: Customer segmentation using K-means clustering.
    - Dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
    - Notebook: `Kmeans_task.ipynb`
- 
+
+ 5. **Task 5: Organize downloads**
+   - This project automates the organization of files in your Downloads folder by moving them into subfolders based on their file types.
+     
 ## Setup Instructions
 
 To run these notebooks and scripts locally, follow these steps:
