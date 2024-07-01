@@ -36,7 +36,8 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
    - Notebook: `Kmeans_task.ipynb`
 
-5. **Task 5: Organise downloads**
+<<<<<<< HEAD
+5. **Task 5: Organize downloads**
    - Description: This project automates the organization of files in your Downloads folder by moving them into subfolders based on their file types.
    - File: `organize_downloads.py`
 
@@ -45,6 +46,11 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Dataset: [Amazon Product Reviews](https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews)
    - File: `sentiment_analysis.py`
  
+=======
+ 5. **Task 5: Organize downloads**
+   - This project automates the organization of files in your Downloads folder by moving them into subfolders based on their file types.
+     
+>>>>>>> origin/main
 ## Setup Instructions
 
 To run these notebooks and scripts locally, follow these steps:
