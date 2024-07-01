@@ -35,6 +35,15 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Description: Customer segmentation using K-means clustering.
    - Dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
    - Notebook: `Kmeans_task.ipynb`
+
+5. **Task 5: Organise downloads**
+   - Description: This project automates the organization of files in your Downloads folder by moving them into subfolders based on their file types.
+   - File: `organize_downloads.py`
+
+6. **Task 6: Sentiment Analysis**
+   - Description: Building a robust sentiment analysis model that leverages state-of-the-art NLP algorithms to accurately classify sentiments in diverse text datasets.
+   - Dataset: [Amazon Product Reviews](https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews)
+   - File: `sentiment_analysis.py`
  
 ## Setup Instructions
 
