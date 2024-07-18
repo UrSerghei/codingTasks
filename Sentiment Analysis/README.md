@@ -6,7 +6,6 @@ This project aims to analyze the sentiment of Amazon product reviews by using na
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Data](#data)
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
@@ -46,16 +45,6 @@ To perform sentiment analysis on the Amazon product reviews dataset, run the fol
    ```sh
     python sentiment_analysis.py
    ```
-
-## Project Structure
-
-sentiment-analysis/
-│
-├── amazon_product_reviews.csv  # Dataset
-├── sentiment_analysis.py       # Main script for sentiment analysis
-├── requirements.txt            # Required packages
-├── README.md                   # Project documentation
-└── plot.png                    # Distribution plot of predicted sentiments
 
 ## Data
 

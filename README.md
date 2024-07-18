@@ -36,7 +36,6 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
    - Notebook: `Kmeans_task.ipynb`
 
-<<<<<<< HEAD
 5. **Task 5: Organize downloads**
    - Description: This project automates the organization of files in your Downloads folder by moving them into subfolders based on their file types.
    - File: `organize_downloads.py`
@@ -46,11 +45,13 @@ Below is a brief overview of the machine-learning tasks included in this reposit
    - Dataset: [Amazon Product Reviews](https://www.kaggle.com/datasets/saurav9786/amazon-product-reviews)
    - File: `sentiment_analysis.py`
  
-=======
- 5. **Task 5: Organize downloads**
+7. **Task 7: Organize downloads**
    - This project automates the organization of files in your Downloads folder by moving them into subfolders based on their file types.
-     
->>>>>>> origin/main
+
+8. **Task 8: Olympic Medal Analysis Project**
+   - Description: This project involves a comprehensive analysis of the Olympic Games dataset to explore various factors contributing to athletic success. The focus is on examining the relationship between athletes' physical characteristics, age, experience, and the geographical distribution of medals over time.
+   - Dataset: `athlete_events.csv`, `noc_regions.csv`
+   - File: `sports.ipynb`
 ## Setup Instructions
 
 To run these notebooks and scripts locally, follow these steps:
